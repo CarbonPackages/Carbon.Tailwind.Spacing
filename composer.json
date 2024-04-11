@@ -1,7 +1,7 @@
 {
     "name": "carbon/tailwind-spacing",
     "type": "neos-carbon",
-    "description": "Editor to set tailwindCSS spacing classes in Neos CMS",
+    "description": "Editor to set tailwind spacing classes in Neos CMS",
     "license": "GPL-3.0",
     "keywords": [
         "neos",
