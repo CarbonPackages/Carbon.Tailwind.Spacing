@@ -5,6 +5,8 @@ Neos:
         javascript:
           Carbon.Tailwind:Spacing:
             resource: resource://Carbon.Tailwind.Spacing/Public/Plugin.js
+            attributes:
+              type: module
         stylesheets:
           Carbon.Tailwind:Spacing:
             resource: resource://Carbon.Tailwind.Spacing/Public/Plugin.css
