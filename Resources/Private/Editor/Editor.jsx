@@ -29,7 +29,7 @@ const styles = stylex.create({
         height: sizes.input,
         appearance: "none",
         borderRadius: sizes.borderRadius,
-        border: 0,
+        borderWidth: 0,
         outline: "none",
         backgroundColor: colors.contrastNeutral,
 
@@ -92,7 +92,7 @@ const styles = stylex.create({
     button: (currentValue, targetValue) => ({
         padding: 0,
         margin: 0,
-        background: "transparent",
+        backgroundColor: "transparent",
         appearance: "none",
         borderWidth: 0,
         cursor: "pointer",
