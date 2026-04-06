@@ -7,13 +7,14 @@
     "watch": "node build.mjs --watch"
   },
   "devDependencies": {
-    "@neos-project/neos-ui-extensibility": "~8.3.9",
-    "@neos-project/react-ui-components": "^8.3.9",
-    "@stylexjs/esbuild-plugin": "^0.11.1",
-    "@stylexjs/stylex": "^0.15.2",
-    "esbuild": "^0.25.8",
-    "eslint": "^9.32.0",
+    "@neos-project/neos-ui-extensibility": "~8.3.19",
+    "@neos-project/react-ui-components": "^8.4.3",
+    "@stylexjs/stylex": "^0.18.2",
+    "@stylexjs/unplugin": "^0.18.2",
+    "esbuild": "^0.28.0",
+    "eslint": "^10.2.0",
     "onchange": "^7.1.0",
-    "prettier": "^3.6.2"
-  }
+    "prettier": "^3.8.1"
+  },
+  "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
 }

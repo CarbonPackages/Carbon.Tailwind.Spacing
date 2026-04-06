@@ -9,7 +9,7 @@ Neos:
               type: module
         stylesheets:
           Carbon.Tailwind:Spacing:
-            resource: resource://Carbon.Tailwind.Spacing/Public/Plugin.css
+            resource: resource://Carbon.Tailwind.Spacing/Public/stylex.css
       frontendConfiguration:
         'Carbon.Tailwind:Spacing':
           scale: 4
